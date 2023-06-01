@@ -1,7 +1,4 @@
 #  Ex.1:Mean and variance of a discrete  distribution
-### Name: Akash A
-### Register No.: 212221230003
-### Date:
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
